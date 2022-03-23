@@ -6,8 +6,9 @@ I'm starting my career as a Frontend Dev
 
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.0/devicon.min.css">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
 
 I've been focusing my attention lately to study Js and it's frameworks/libraries, <br>starting to study react at the moment.
 <!--
