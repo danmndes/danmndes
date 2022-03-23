@@ -6,7 +6,7 @@ I'm starting my career as a Frontend Dev
 
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
-I've been focusing my attention lately to study Js and it's frameworks/libraries, starting to study react at the moment.
+I've been focusing my attention lately to study Js and it's frameworks/libraries, <br>starting to study react at the moment.
 <!--
 **danmndes/danmndes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
