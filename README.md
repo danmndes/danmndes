@@ -3,6 +3,7 @@ My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 
 I'm starting my career as a Frontend Dev
 
+I've been focusing my attention lately to study Js and it's frameworks/libraries, starting to study react at the moment.
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
 
