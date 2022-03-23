@@ -8,6 +8,9 @@ I'm starting my career as a Frontend Dev
 
 <h2> Got some Experiences with: </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='60px' height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='60px' height='40px'/ />
+          
           
 
 I've been focusing my attention lately to study Js and it's frameworks/libraries, <br>starting to study react at the moment.
