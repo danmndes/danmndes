@@ -1,6 +1,8 @@
 ### Hi there 👋
 My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
+
 I'm starting my career as a Frontend Dev
+
 Inline-style: 
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
