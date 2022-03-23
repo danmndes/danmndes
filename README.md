@@ -8,12 +8,20 @@ I'm starting my career as a Frontend Dev
 
 <h2> Got some Experiences with: </h2>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width='60px' height='40px'/>
-</span><span>
+</span>
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='60px' height='40px' />
-       </span>   
-          
+</span>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width='60px' height='40px'/>
+</span>
+<span>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width='60px' height='40px'/>
+ </span>                   
 
 I've been focusing my attention lately to study Js and it's frameworks/libraries, <br>starting to study react at the moment.
+
+
 <!--
 **danmndes/danmndes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
