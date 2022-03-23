@@ -22,7 +22,7 @@ I'm starting my career as a Frontend Dev
           
           
 <h2> Starting my Studies with:</h2>
- </span>
+ <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='60px' height='40px' />
  </span><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width='60px' height='40px' /></span>
 <h2>You can reach my on my Linkedin: </h2>
