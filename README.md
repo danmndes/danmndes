@@ -27,7 +27,9 @@ I'm starting my career as a Frontend Dev
  </span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='60px' height='40px' />
  </span>         
-
+<h2>You can reach my on my Linkedin: </h2>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='90px' height='60px' /></span>
+          
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmndes&layout=compact&langs_count=7&theme=dracula"/>
