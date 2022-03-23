@@ -17,11 +17,16 @@ I'm starting my career as a Frontend Dev
 </span>
 <span>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width='60px' height='40px'/>
- </span>                   
-
-I've been focusing my attention lately to study Js and it's frameworks/libraries, <br>starting to study react at the moment.
-
-
+ </span>
+ <span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+</span>
+          
+          
+<h2> Starting my Studies with:</h2>
+ </span>
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ </span>         
 <!--
 **danmndes/danmndes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
