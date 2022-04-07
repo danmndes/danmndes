@@ -25,6 +25,11 @@ I'm starting my career as a Frontend Dev
  <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='60px' height='40px' />
  </span><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width='60px' height='40px' /></span>
+ <span>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original-wordmark.svg" width='60px' height='40px'/>
+ </span>
+
+ 
 <h2>You can reach my on my Linkedin: </h2>
 <span><a href='https://www.linkedin.com/in/daniel-rmendes/' alt='My Linked In' target='_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='90px' height='60px' /></a></span>
 
