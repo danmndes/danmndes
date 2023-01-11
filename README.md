@@ -1,8 +1,6 @@
 ### Hi there 👋
 My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 
-I'm starting my career as a Frontend Dev
-
 
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
@@ -28,9 +26,9 @@ I'm starting my career as a Frontend Dev
           
 <h2> Starting my Studies with:</h2>
  <span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='60px' height='40px' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width='60px' height='40px' />
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='60px' height='40px'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robot/robot-original-wordmark.svg" width='60px' height='40px'/>
  </span>
 
  
