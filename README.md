@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋<span>![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)</span>
 My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)
+
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
 <h2> I'm experienced with: </h2>
