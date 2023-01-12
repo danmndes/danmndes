@@ -1,7 +1,7 @@
 ### Hi there 👋
 My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)
 ![alt text](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif "Cat Typing")
 
 <h2> I'm experienced with: </h2>
@@ -28,9 +28,7 @@ My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 <h2> Starting my Studies with:</h2>
  <span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width='60px' height='40px' />
- 
- 
+
 <h2>You can reach my on my Linkedin: </h2>
 <span><a href='https://www.linkedin.com/in/daniel-rmendes/' alt='My Linked In' target='_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width='90px' height='60px' /></a></span>
 <br>
- ![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)
