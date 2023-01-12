@@ -22,7 +22,7 @@ My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmndes&count_private=true)
  ![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)         
           
 <h2> Starting my Studies with:</h2>
