@@ -21,7 +21,7 @@ My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
  </span>
 
 
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/danmndes/langs)](https://githubtrends.io)
 
          
           
