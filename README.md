@@ -20,10 +20,10 @@ My Name is Daniel, i'm 32 years old, currently living in Fortaleza/CE.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width='60px' height='40px'/>
  </span>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)
 
 
-          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=danmndes.danmndes)         
           
 <h2> Starting my Studies with:</h2>
  <span>
